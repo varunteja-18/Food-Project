@@ -339,6 +339,7 @@ const foodOptions = [
   'Sandwich',
   'Salad',
   'Ice Cream',
+  'cone'
 ];
 
 interface Item {
