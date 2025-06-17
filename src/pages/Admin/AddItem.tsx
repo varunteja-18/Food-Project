@@ -338,7 +338,7 @@ const foodOptions = [
   'Momos',
   'Sandwich',
   'Salad',
-  'Ice Cream',
+  'Cream',
   'cone'
 ];
 
