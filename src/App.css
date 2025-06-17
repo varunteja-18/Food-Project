@@ -1,0 +1,16 @@
+input {
+  margin: 5px;
+  padding: 6px;
+}
+button {
+  padding: 6px 10px;
+  margin-left: 5px;
+  cursor: pointer;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
